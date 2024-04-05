@@ -1,0 +1,25 @@
+ID: Identificador único de cada fila.
+
+Age: Es el rango etario de cada encuestado.
+
+Gender: Género del encuestado.
+
+Education:Es el nivel educativo del Participante.
+
+Country: País en donde vive la persona al momento de encuestarlo.
+
+Ethnicity: Es la etnia a la cual pertenece el encuestado.
+
+Nscore: Es el 'Neuroticismo', uno de los 5 rasgos de personalidad en el estudio de la psicología. Una puntuación más alta en esta categoría tiene como significado que la persona tiene más probabilidades de ser temperamentales y experimentar sentimientos como: ansiedad, preocupación, miedo, ira, frustración, envidia, celos, culpa, estado de ánimo deprimido y soledad.
+
+EScore: Al igual que la anterior, 'Escore' es la extraversión, otro de los 5 rasgos de personalidad según la teoría de los cinco Grandes. Esto indica que tan extrovertida y social es una persona. Esto significa que mientras más alto el valor en esta categoría más "alma de la fiesta" es la persona. Disfrutan estar con personas, participar en reuniones sociales y están llenos de energía.
+
+Oscore: Más en relación a lo anterior. Esta mide la "apertura a la experiencia". Con un nivel alto implica que disfrutan de probar cosas nuevas. Son imaginativos, curiosos y de mente abierta. Las personas con baja apertura a la experiencia prefieren no probar cosas nuevas. Son cerrados de mente, literales y disfrutan de tener una rutina.
+
+Ascore: Este es el nivel de amabilidad. Una persona con un alto nivel de amabilidad en un test de personalidad suele ser cálida, amigable y tactful. Generalmente tienen una visión optimista de la naturaleza humana y se llevan bien con los demás.
+
+Cscore: Esto es la conciencia. Una persona con una puntuación alta en conciencia generalmente tiene un alto nivel de autodisciplina. Estos individuos prefieren seguir un plan en lugar de actuar espontáneamente. Su planificación metódica y perseverancia generalmente los hace altamente exitosos en su ocupación elegida.
+
+Impulsive: Esto mide una tendencia a actuar de manera impulsiva, mostrando un comportamiento caracterizado por poco o ningún pensamiento previo, reflexión o consideración de las consecuencias. Si describes a alguien como impulsivo, significa que hacen cosas de manera repentina sin pensarlas cuidadosamente primero.
+
+Sensation: La sensación es la entrada sobre el mundo físico obtenida por nuestros receptores sensoriales, y la percepción es el proceso mediante el cual el cerebro selecciona, organiza e interpreta estas sensaciones. En otras palabras, los sentidos son la base fisiológica de la percepción.
