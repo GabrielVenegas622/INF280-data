@@ -1,0 +1,32 @@
+main_artist              : Nombre del artista principal
+feat_1                   : Nombre del segundo artista principal
+feat_2                   : Nombre del tercer artista principal
+spotify_id               : Id de la canción en Spotify
+name                     : Nombre de la canción
+daily_rank               : Top de la canción dentro del Top 50 [1 es el mayor, 50 el menor]
+daily_movement           : Cambio en el ranking comparado al dia anterior
+weekly_movement          : Cambio en el ranking comparado a la semana anterior
+country                  : País de donde se saca el Top de la canción
+snapshot_date            : Fecha en la cuál se obtuvieron los datos del Top
+popularity               : Medida de la popularidad actual de la canción en Spotify 
+is_explicit              : Booleano que indica si el contenido de la canción es explícito
+duration_ms              : Duración de la canción en milisegundos
+album_name               : Nombre del álbum al cual pertenece la canción
+album_release_date       : Fecha de lanzamiento del álbum
+danceability             : Medida de cuán adecuada es una canción para bailar, basándose en varios elementos musicales como el tempo, el ritmo, la estructura, etc
+energy                   : Una medida de la intensidad y nivel de actividad de la canción
+key                      : La tonalidad de la canción
+loudness                 : El volumen general de la canción en decibeles
+mode                     : Modo en el cual se encuentra la canción [Mayor,Menor]
+speechiness              : Una medida de la presencia de palabras en la canción
+acousticness             : Una medida de la calidad acústica de la canción
+instrumentalness         : Una medida de la probabilidad de que la canción no contenga voces
+liveness                 : Una medida de la presencia de público en vivo en la grabación
+valence                  : Una medida de la positividad musical transmitida por la canción
+tempo                    : El tempo de la canción en pulsaciones por minuto (BPM)
+time_signature           : Tiempo estimado de la canción [Minutos]       
+release_year             : Año del lanzamiento de la canción       
+days_since_album_release : Días desde el lanzamiento del álbum
+duration_min             : Duración de la canción en minutos
+continent                : Continente de donde pertenece el país desde donde se sacó el Top de la canción
+past_week_rank           : Ranking de la canción la semana anterior
