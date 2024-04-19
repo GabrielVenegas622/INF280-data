@@ -1,0 +1,12 @@
+- "state" : Nombre del estado
+- "median_household_income" : Ingreso medio del hogar, 2016.
+- "share_unemployed_seasonal" : Porcentaje de la población desempleada (ajustado estacionalmente), septiembre de 2016.
+- "share_population_in_metro_areas" : Porcentaje de la población que vive en áreas metropolitanas, 2015.
+- "share_population_with_high_school_degree" : Porcentaje de adultos mayores de 25 años con educación secundaria, 2009.
+- "share_non_citizen" : Porcentaje de la población que no son ciudadanos estadounidenses, 2015.
+- "share_white_poverty" : Porcentaje de residentes blancos que viven en la pobreza, 2015.
+- "gini_index" : Índice de Gini, 2015.
+- "share_non_white" : Porcentaje de la población que no es blanca, 2015.
+- "hate_crimes_per_100k_splc" : Crímenes de odio por cada 100,000 habitantes, según el Southern Poverty Law Center, del 9 al 18 de noviembre de 2016.
+- "avg_hatecrimes_per_100k_fbi" : Promedio anual de crímenes de odio por cada 100,000 habitantes, según el FBI, 2010-2015.
+- "trump_win" : Victoria de Trump en el estado para las elecciones presidenciales de 2016 (0 si pierde, 1 si gana).
