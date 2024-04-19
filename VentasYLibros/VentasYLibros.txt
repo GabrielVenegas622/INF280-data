@@ -1,0 +1,12 @@
+- "Book Name": Título del libro.
+- "Author": Nombre del autor del libro.
+- "language_code": Código que representa el idioma en que está escrito el libro.
+- "Author_Rating": Calificación asignada al autor basada en sus trabajos anteriores.
+- "Book_average_rating": Calificación promedio dada al libro por los lectores.
+- "Book_ratings_count": Número de calificaciones otorgadas al libro por los lectores.
+- "genre": Género o categoría a la que pertenece el libro.
+- "gross sales": Ingresos totales generados por ventas de cada libro.
+- "publisher revenue": Ingresos obtenidos por los editores al vender cada libro.
+- "sale price": Precio al que se vende cada copia de un libro.
+- "sales rank": Valor numérico que indica el rango de ventas de un libro en comparación con otros libros dentro de su categoría (género).
+- "units sold": Número total de copias vendidas para cada título específico.
